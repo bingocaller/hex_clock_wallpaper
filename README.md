@@ -3,7 +3,7 @@ This is like [Hex clock](http://www.jacopocolo.com/hexclock/) by [Jacopo Colò](
 
 ### Observe!
 
-![Hex Clock gif](http://i.imgur.com/om0FHCk.gif)
+![Hex Clock gif](http://i.imgur.com/aNBl7pj.gif)
 
 ## Requirements
 - A computer running Mac OS X.
@@ -11,7 +11,7 @@ This is like [Hex clock](http://www.jacopocolo.com/hexclock/) by [Jacopo Colò](
 - [GeekTool](http://projects.tynsoe.org/en/geektool/) to run the scripts.  
 You could probably achieve something similar on Windows using [Rainmeter](http://rainmeter.net/), but that's a tale for another project.
 
-- A monospaced font. I used [Input Mono](http://input.fontbureau.com), which is really nice, free for private/unpublished usage, plus it can be customised during the download process.
+- A monospaced font. The one in the GIF is Adobe's [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
 
 ## A notice
 Apparently you can't change the desktop image on a Mac without referencing an actual image, so I had to generate 84,400 1x1 px images and put them in a folder for the system to use. Fortunately they only take up ~3MB when zipped, but it's still kind of a hassle.

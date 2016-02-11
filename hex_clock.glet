@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>date +'#%H%M%S' &amp;&amp; osascript /Users/Jesper/dev/scripts/hex_wallpaper_multi.scpt</string>
+	<string>date +'#%H%M%S' &amp;&amp; osascript /Users/bingocaller/dev/scripts/hex_wallpaper_multi.applescript</string>
 	<key>DropShadow</key>
 	<false/>
 	<key>FailureImage</key>
